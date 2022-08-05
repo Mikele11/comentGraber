@@ -41,7 +41,7 @@
     "express": "^4.16.3",
     "lodash": "^4.17.10",
     "mongodb": "^3.1.1",
-    "mongoose": "^5.0.17",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.0",
     "nodemon": "^1.19.1",
     "react-router-dom": "^4.2.2",
